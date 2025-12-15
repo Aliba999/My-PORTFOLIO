@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-label="Aliba999 Logo">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#667eea"/>
+      <stop offset="100%" stop-color="#764ba2"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="32" fill="url(#grad)"/>
+  <g transform="translate(0,6)">
+    <text x="50%" y="55%" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="92" font-weight="700" fill="#ffffff">A</text>
+    <text x="50%" y="88%" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#ffffff" opacity="0.95">Aliba999</text>
+  </g>
+</svg>
