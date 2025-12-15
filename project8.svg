@@ -1,0 +1,55 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Header -->
+  <rect width="800" height="60" fill="white" stroke="#ddd" stroke-width="1"/>
+  <text x="30" y="37" font-size="18" font-weight="bold" fill="#333">MarketPro</text>
+  <text x="550" y="37" font-size="13" fill="#333">Услуги</text>
+  <text x="640" y="37" font-size="13" fill="#333">Кейсы</text>
+  <rect x="680" y="18" width="100" height="24" rx="4" fill="#fa709a"/>
+  <text x="730" y="35" font-size="12" fill="white" text-anchor="middle" font-weight="600">Связаться</text>
+  
+  <!-- Banner -->
+  <rect y="60" width="800" height="120" fill="linear-gradient(135deg, #fa709a, #fee140)"/>
+  <text x="400" y="150" font-size="40" font-weight="bold" fill="white" text-anchor="middle">Digital Marketing</text>
+  
+  <!-- Case Studies -->
+  <text x="30" y="220" font-size="14" font-weight="bold" fill="#333">Последние проекты</text>
+  
+  <!-- Case 1 -->
+  <rect x="20" y="240" width="370" height="140" fill="white" stroke="#e0e0e0" stroke-width="1" rx="8"/>
+  <rect x="20" y="240" width="110" height="140" fill="#ddd" rx="8"/>
+  <text x="175" y="265" font-size="12" font-weight="bold" fill="#333">E-commerce магазин</text>
+  <text x="175" y="285" font-size="10" fill="#666">Увеличение продаж на 250% за 6 месяцев</text>
+  <text x="175" y="305" font-size="10" fill="#999">ROI: +320% | Клиенты: 5000+</text>
+  <text x="175" y="325" font-size="9" fill="#fa709a" font-weight="600">Просмотреть кейс →</text>
+  
+  <!-- Case 2 -->
+  <rect x="410" y="240" width="370" height="140" fill="white" stroke="#e0e0e0" stroke-width="1" rx="8"/>
+  <rect x="410" y="240" width="110" height="140" fill="#bbb" rx="8"/>
+  <text x="565" y="265" font-size="12" font-weight="bold" fill="#333">SaaS стартап</text>
+  <text x="565" y="285" font-size="10" fill="#666">Привлечение 5000 новых пользователей</text>
+  <text x="565" y="305" font-size="10" fill="#999">Конверсия: 8.5% | Загрузок: 5К</text>
+  <text x="565" y="325" font-size="9" fill="#fa709a" font-weight="600">Просмотреть кейс →</text>
+  
+  <!-- Stats -->
+  <text x="30" y="420" font-size="14" font-weight="bold" fill="#333">Наши результаты</text>
+  
+  <rect x="20" y="440" width="180" height="140" fill="#fff3cd" rx="8"/>
+  <text x="110" y="480" font-size="28" font-weight="bold" fill="#fa709a" text-anchor="middle">250+</text>
+  <text x="110" y="505" font-size="11" fill="#333" text-anchor="middle">Проектов выполнено</text>
+  <text x="110" y="520" font-size="9" fill="#666" text-anchor="middle">За 10 лет работы</text>
+  
+  <rect x="220" y="440" width="180" height="140" fill="#fff3cd" rx="8"/>
+  <text x="310" y="480" font-size="28" font-weight="bold" fill="#fa709a" text-anchor="middle">500M₽</text>
+  <text x="310" y="505" font-size="11" fill="#333" text-anchor="middle">Заработка клиентов</text>
+  <text x="310" y="520" font-size="9" fill="#666" text-anchor="middle">в среднем</text>
+  
+  <rect x="420" y="440" width="180" height="140" fill="#fff3cd" rx="8"/>
+  <text x="510" y="480" font-size="28" font-weight="bold" fill="#fa709a" text-anchor="middle">98%</text>
+  <text x="510" y="505" font-size="11" fill="#333" text-anchor="middle">Успех проектов</text>
+  <text x="510" y="520" font-size="9" fill="#666" text-anchor="middle">Удовлетворение</text>
+  
+  <rect x="620" y="440" width="160" height="140" fill="#fff3cd" rx="8"/>
+  <text x="700" y="480" font-size="24" font-weight="bold" fill="#fa709a" text-anchor="middle">24/7</text>
+  <text x="700" y="505" font-size="11" fill="#333" text-anchor="middle">Поддержка</text>
+  <text x="700" y="520" font-size="9" fill="#666" text-anchor="middle">Клиентов</text>
+</svg>

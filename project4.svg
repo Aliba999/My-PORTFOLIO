@@ -1,0 +1,28 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Header -->
+  <rect width="800" height="60" fill="white" stroke="#ddd" stroke-width="1"/>
+  <text x="30" y="37" font-size="18" font-weight="bold" fill="#333">TravelBlog</text>
+  <rect x="680" y="18" width="100" height="24" rx="4" fill="#fa709a"/>
+  <text x="730" y="35" font-size="12" fill="white" text-anchor="middle" font-weight="600">Подписка</text>
+  
+  <!-- Banner -->
+  <rect y="60" width="800" height="140" fill="linear-gradient(135deg, #fa709a, #fee140)"/>
+  <text x="400" y="155" font-size="40" font-weight="bold" fill="white" text-anchor="middle">Путешествия</text>
+  
+  <!-- Blog Posts -->
+  <!-- Post 1 -->
+  <rect x="20" y="220" width="760" height="120" fill="white" stroke="#e0e0e0" stroke-width="1" rx="8"/>
+  <rect x="20" y="220" width="140" height="120" fill="#ccc" rx="8"/>
+  <text x="180" y="245" font-size="14" font-weight="bold" fill="#333">Таиланд: Рай на земле</text>
+  <text x="180" y="265" font-size="12" fill="#666">Потрясающие пляжи, древние храмы и вкусная еда. Мой полный отзыв о путешествии в Таиланд в 2024 году...</text>
+  <text x="180" y="285" font-size="10" fill="#999">15 декабря 2024 • 12 мин чтения</text>
+  <rect x="680" y="240" width="80" height="80" fill="#fa709a" opacity="0.1" rx="6"/>
+  
+  <!-- Post 2 -->
+  <rect x="20" y="360" width="760" height="120" fill="white" stroke="#e0e0e0" stroke-width="1" rx="8"/>
+  <rect x="20" y="360" width="140" height="120" fill="#bbb" rx="8"/>
+  <text x="180" y="385" font-size="14" font-weight="bold" fill="#333">Европа осенью: Волшебство Парижа</text>
+  <text x="180" y="405" font-size="12" fill="#666">Исторические улицы, романтичные кафе и музеи мирового класса. Почему осень - лучшее время для посещения...</text>
+  <text x="180" y="425" font-size="10" fill="#999">10 декабря 2024 • 18 мин чтения</text>
+  <rect x="680" y="380" width="80" height="80" fill="#fa709a" opacity="0.1" rx="6"/>
+</svg>
